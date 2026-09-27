@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hadmage — Combate ao cyberbullying",
+      "hasCanvas": false,
+      "bodyTextLen": 444,
+      "bodyTextHash": "450f0c936e06846b0c11861929ffd173382e626b7d5d8a53adbc272f21f8ec95",
+      "bodyTextPrefix": "Hadmage Início Quem somos Membros Troféus Denúncia COLETIVO DE I",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hadmage — Combate ao cyberbullying",
+      "hasCanvas": false,
+      "bodyTextLen": 444,
+      "bodyTextHash": "450f0c936e06846b0c11861929ffd173382e626b7d5d8a53adbc272f21f8ec95",
+      "bodyTextPrefix": "Hadmage Início Quem somos Membros Troféus Denúncia COLETIVO DE I",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

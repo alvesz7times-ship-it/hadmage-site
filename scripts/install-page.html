@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#000000" />
+  <title>Add {{APP_NAME}} to your Home Screen</title>
+  <link rel="stylesheet" href="/__grok/install/styles.css" />
+  <link rel="apple-touch-icon" href="/__grok/icon-180.png" />
+</head>
+<body>
+  <div class="page">
+    <header class="powered">
+      <span class="powered-by">Powered by</span>
+      <span class="powered-brand">
+        <img class="grok-logo" src="/__grok/install/assets/homescreen/logo-grok.svg" alt="" width="18" height="18" />
+        <span class="powered-grok">Grok</span>
+      </span>
+    </header>
+
+    <main class="content">
+      <div class="ob">
+        <img class="ob-img" src="/__grok/install/assets/homescreen/ob-phone.png" alt="" />
+      </div>
+
+      <div class="copy">
+        <h1>Add {{APP_NAME}} to your Home Screen</h1>
+        <p class="muted">Open in Safari, then follow the steps.</p>
+      </div>
+
+      <ol class="steps">
+        <li class="step step-ios-legacy">
+          <span class="glass glass--icon">
+            <img src="/__grok/install/assets/homescreen/glass-share.svg" alt="" width="22" height="22" />
+          </span>
+          <span>Tap <strong>Share</strong></span>
+        </li>
+        <li class="step step-ios-legacy">
+          <span class="glass glass--icon">
+            <img class="plus-icon" src="/__grok/install/assets/homescreen/plus.svg" alt="" width="18" height="18" />
+          </span>
+          <span class="add-text">Tap <span class="add-label">Add to Home Screen</span></span>
+        </li>
+        <li class="step step-ios-legacy">
+          <span class="glass glass--icon">
+            <img src="/__grok/install/assets/homescreen/glass-puzzle.svg" alt="" width="22" height="22" />
+          </span>
+          <span>Confirm and tap <strong>Add</strong></span>
+        </li>
+      </ol>
+
+      <p class="desktop-note">
+        Already installed?
+        <a class="desktop-open" href="{{APP_URL}}">Open {{APP_NAME}}</a>
+      </p>
+    </main>
+  </div>
+</body>
+</html>
