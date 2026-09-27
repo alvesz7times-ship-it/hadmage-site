@@ -49,7 +49,7 @@ export const MEMBERS = [
     name: "g4briel",
     role: "Membro",
     handle: "@g4briel",
-    whatsapp: "https://wa.me/55119222222221",
+    whatsapp: "https://wa.me/5511922222221",
     image: "/members/g4briel.jpg",
     bio: "Membro da HADMAGE · hacker ético.",
     x: "76%",
